@@ -21,3 +21,15 @@
 .new-releases-bottom {
     background-color: #1f1f1f;
 }
+
+#ps-plus {
+    background-color: #bebcbb;
+}
+
+#ps-plus .txt-blue {
+    color: blue;
+}
+
+#ps-now {
+    background-color: #161c3b;
+}
