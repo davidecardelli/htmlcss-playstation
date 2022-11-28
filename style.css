@@ -4,6 +4,13 @@
     padding-left: 18px;
 }
 
+.jubmotron-top {
+    height: 600px;
+    background-image: url("img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+
 .content-jumbo {
     padding-top: 300px;
     padding-bottom: 50px;
