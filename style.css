@@ -10,3 +10,14 @@
     background-size: cover;
     background-position: center;
 }
+
+.new-releases-top {
+    height: 600px;
+    background-image: url("img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.new-releases-bottom {
+    background-color: #1f1f1f;
+}
