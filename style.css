@@ -37,3 +37,7 @@
 .footer-bottom {
     background-color: #00439c;
 }
+
+#new-releases .content-new-releases img{
+    height: 30%;
+}
