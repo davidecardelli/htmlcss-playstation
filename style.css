@@ -59,7 +59,7 @@ header {
     border: transparent;
 }
 
-#jumbotron .thumb-selected {
+#jumbotron .jumbotron-bottom img:hover {
     border: 2px solid blue;
 }
 
@@ -72,6 +72,11 @@ header {
     transform: translateY(-25px);
 }
 
-#ps5 .thumb-selected {
+#ps5 .row div.col-4 {
+    opacity: 50%;
+}
+
+#ps5 .row div:hover.col-4 {
     border-bottom: 2px solid blue;
+    opacity: 100;
 }
