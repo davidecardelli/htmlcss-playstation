@@ -52,3 +52,26 @@ header {
 #new-releases .content-new-releases img{
     height: 30%;
 }
+
+/* EFFECT */
+
+.jumbotron-bottom img {
+    border: transparent;
+}
+
+#jumbotron .thumb-selected {
+    border: 2px solid blue;
+}
+
+.jumbotron-bottom img{
+    transition: transform .5s;
+}
+
+.jumbotron-bottom .row div:hover img{
+    cursor: pointer;
+    transform: translateY(-25px);
+}
+
+#ps5 .thumb-selected {
+    border-bottom: 2px solid blue;
+}
